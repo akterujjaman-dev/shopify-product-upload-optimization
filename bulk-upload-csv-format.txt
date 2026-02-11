@@ -1,0 +1,15 @@
+Shopify CSV Upload Basic Format
+
+Handle
+Title
+Body (HTML)
+Vendor
+Product Category
+Type
+Tags
+Published
+Option1 Name
+Option1 Value
+Variant SKU
+Variant Price
+Variant Inventory Qty
