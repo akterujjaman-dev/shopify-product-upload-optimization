@@ -9,3 +9,20 @@ This repository contains examples for product uploads, variants setup, and SEO-f
 - Variant setup guidance (size/color)
 - CSV product upload tips
 - Product page optimization checklist
+
+## What this repository shows
+
+This repository demonstrates my hands-on experience with:
+
+- Shopify product uploads and SEO-optimized descriptions  
+- Variant setup and pricing strategies  
+- Bulk product uploads using CSV files  
+- Clean structure for scalable Shopify stores  
+
+These examples are based on real-world Shopify dropshipping workflows.
+
+## Who this is for
+
+- Dropshipping store owners
+- eCommerce startups
+- Shopify merchants needing product optimization
