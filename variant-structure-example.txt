@@ -1,0 +1,15 @@
+Variant Structure Example
+
+Product: Running Shoes
+
+Options:
+- Size: 38, 39, 40, 41, 42
+- Color: Black, White, Blue
+
+Pricing Strategy:
+Base price: $39.99
+Premium variant: +$5
+
+SKU Example:
+RS-BLK-40
+RS-WHT-42
